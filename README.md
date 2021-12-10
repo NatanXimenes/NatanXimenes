@@ -1,7 +1,9 @@
 ### Olá! Seja bem vindo ao meu portfólio de projetos 👋
 Eu sou o Natan, Matemático e Cientista de dados que tem como paixão solucionar problemas a partir de dados.
 
-Aqui estão meus contatos: e-mail (natanbx@hotmail.com) Linkedin (https://www.linkedin.com/in/natan-ximenes)
+Caso queira saber mais sobre mim: 
+
+Linkedin (https://www.linkedin.com/in/natan-ximenes) Medium (https://medium.com/@Natan_Ximenes)
 
 <!--
 **NatanXimenes/NatanXimenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
