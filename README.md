@@ -3,9 +3,9 @@ Eu sou o Natan, Matemático e Cientista de dados que tem como paixão solucionar
 
 Caso queira saber mais sobre mim: 
 
-- Linkedin: https://www.linkedin.com/in/natan-ximenes
+- Linkedin: linkedin.com/in/natan-ximenes
 
-- Blog do Medium: https://medium.com/@Natan_Ximenes
+- Blog do Medium: medium.com/@Natan_Ximenes
 
 <!--
 **NatanXimenes/NatanXimenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
