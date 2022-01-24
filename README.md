@@ -5,8 +5,6 @@ Caso queira saber mais sobre mim:
 
 - Linkedin: https://www.linkedin.com/in/natan-ximenes
 
-- Currículo: https://drive.google.com/file/d/1KbwdKOkLHxnxKHf-rVyh1QdqRDzZWNSe/view?usp=sharing
-
 - Blog do Medium: https://medium.com/@Natan_Ximenes
 
 <!--
