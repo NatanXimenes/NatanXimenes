@@ -1,5 +1,5 @@
 ### Olá! Seja bem vindo ao meu portfólio de projetos 👋
-Eu sou o Natan, Matemático e Cientista de dados que tem como paixão solucionar problemas a partir de dados.
+Eu sou o Natan, Matemático e Cientista/Analista de dados que tem como paixão solucionar problemas a partir de dados.
 
 Caso queira saber mais sobre mim: 
 
