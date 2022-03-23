@@ -5,9 +5,7 @@ Caso queira saber mais sobre mim:
 
 [- Linkedin](https://www.linkedin.com/in/natan-ximenes/)
 
-[- Blog: Medium](https://medium.com/@Natan_Ximenes)
-
-Confira meus principais projetos logo baixo 👇👇👇
+Confira meus principais projetos logo abaixo 👇👇👇
 
 <!--
 **NatanXimenes/NatanXimenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
