@@ -1,5 +1,5 @@
 ### Olá! Seja bem vindo ao meu portfólio de projetos 👋
-Eu sou o Natan, um Matemático que tem como paixão solucionar problemas a partir de dados. Tenho trabalhado como Data Analytics Engineer na Indicium Tech.
+Eu sou o Natan, um Matemático que tem como paixão solucionar problemas a partir de dados. Atualmente estou trabalhando como Data Analytics Engineer na Indicium Tech.
 
 Caso queira saber mais sobre mim: 
 
